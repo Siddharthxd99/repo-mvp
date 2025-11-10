@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="RepoMVP - Describe any GitHub repository in simple MVP terms using AI">
+    <meta name="keywords" content="GitHub, MVP, repository analyzer, Groq AI">
+    <title>RepoMVP - GitHub to MVP Description</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1>🎯 RepoMVP</h1>
+            <p class="subtitle">Describe any GitHub repository in MVP terms</p>
+        </header>
+
+        <!-- Input Section -->
+        <div class="input-box">
+            <input 
+                type="text" 
+                id="repoInput" 
+                placeholder="https://github.com/username/repository"
+                spellcheck="false"
+                autocomplete="off">
+            <button onclick="describeMVP()" id="describeBtn">
+                📋 Describe MVP
+            </button>
+        </div>
+
+        <!-- Error Message -->
+        <div class="error" id="errorMsg"></div>
+
+        <!-- Loading State -->
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>🤖 AI is analyzing the repository...</p>
+        </div>
+
+        <!-- Result Section -->
+        <div class="result" id="result">
+            <div class="result-box">
+                <h2>📝 MVP Description</h2>
+                <div class="description" id="description"></div>
+                <button onclick="copyDescription()" class="copy-btn">
+                    📋 Copy
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>RepoMVP • Powered by Groq AI</p>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>
