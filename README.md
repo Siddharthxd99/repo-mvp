@@ -1,5 +1,3 @@
-Yeh raha **complete README.md file** jo tum directly save kar sakte ho! 📥
-
 ## 💾 **How to Save:**
 
 1. **Copy all text below** (from `# 🎯 RepoMVP` to the end)
@@ -426,16 +424,3 @@ nano README.md
 code README.md
 # Paste and save
 ```
-
-Bas copy karo aur `README.md` naam se save karo! ✨🚀
-
-[1](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-[2](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-[3](https://stackoverflow.com/questions/72957442/how-to-make-a-download-link-in-github-readme-md-file)
-[4](https://github.com/othneildrew/Best-README-Template)
-[5](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-[6](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github)
-[7](https://github.com/topics/readme-md?o=asc&s=stars)
-[8](https://github.com/matiassingers/awesome-readme)
-[9](https://readme.so)
-[10](https://github.com/orgs/community/discussions/59897)
