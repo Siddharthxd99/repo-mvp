@@ -1,15 +1,3 @@
-## 💾 **How to Save:**
-
-1. **Copy all text below** (from `# 🎯 RepoMVP` to the end)
-2. **Create file:** Right-click in your project folder → New → Text Document
-3. **Rename:** `README.md` (important: .md extension)
-4. **Paste content** and save
-
----
-
-## 📄 **COMPLETE README.MD FILE:**
-
-```markdown
 # 🎯 RepoMVP
 
 > Transform any GitHub repository into a clear, actionable MVP description using AI
