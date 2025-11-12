@@ -389,26 +389,3 @@ Give a ⭐️ if this project helped you!
 ---
 
 <p align="center">Made with ❤️ using Groq AI 🚀</p>
-```
-
-***
-
-## 🎯 **Quick Commands:**
-
-**Windows:**
-```cmd
-notepad README.md
-REM Paste content above, save
-```
-
-**Linux/Mac:**
-```bash
-nano README.md
-# Paste content, Ctrl+X, Y, Enter
-```
-
-**Or use VS Code:**
-```bash
-code README.md
-# Paste and save
-```
